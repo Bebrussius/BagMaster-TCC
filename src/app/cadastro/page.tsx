@@ -15,14 +15,14 @@ export default function Cadastro() {
         <input className="bg-neutral-300 w-3/4 h-10 rounded-md text-black p-3 border-gray-950 mb-6 placeholder:text-black placeholder:opacity-50 focus:outline-none focus:ring-2
          focus:ring-blue-500 focus:border-blue-500" type="tel" placeholder="Telefone" />
         <div></div>
-        <a href="./home" className=" w-full justify-center flex">
+        <a href="./empresa" className=" w-full justify-center flex">
           <button className="bg-slate-900 w-3/4 h-10 text-gray-50 font-thin rounded-md hover:bg-blue-900 transition duration-300 ease-linear">
             Entrar
           </button>
         </a>
         <div className="flex text-sm w-3/4 h-10 justify-start">
           <p className='text-black'>Já possui uma conta?</p>
-          <a className="text-blue-700 ml-1" href="./login.html">Faça login</a>
+          <a className="text-blue-700 ml-1" href="./login">Faça login</a>
         </div>
       </div>
     </div>
