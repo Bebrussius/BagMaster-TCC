@@ -9,7 +9,7 @@ export default function Home() {
       </div>
     </header>
 
-    <h1>Meu piru é gigante, pegue nele imediatamentee</h1>
+    <h1>HOME</h1>
     </div>
   );
 }
